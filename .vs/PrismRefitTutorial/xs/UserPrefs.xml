@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3333FC94-4933-46A8-BC50-2F86231E8303}|Default">
+  <MonoDevelop.Ide.ItemProperties.tests.PrismRefitTutorial.UITests PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrismRefitTutorial/src/PrismRefitTutorial/ViewModels/ViewModelBase.cs">
+    <Files>
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.Services/API/IGithubApi.cs" Line="8" Column="27" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.Services/Interfaces/IGithubService.cs" Line="8" Column="11" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.Services/Implementations/GithubService.cs" Line="16" Column="41" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial/App.xaml.cs" Line="45" Column="83" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial/ViewModels/MainPageViewModel.cs" Line="35" Column="1" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.Models/ApiResponse.cs" Line="8" Column="29" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial/Views/MainPage.xaml" Line="2" Column="13" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial.Services/Stubs/GithubService.cs" Line="30" Column="1" />
+      <File FileName="PrismRefitTutorial/src/PrismRefitTutorial/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.PrismRefitTutorial.Droid PreferredExecutionTarget="Android.nexus_5" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.PrismRefitTutorial.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBDA5AF9-6D81-4778-BFD0-5A04C0A2638E" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="refit" Version="4.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="API\" />
+    <Folder Include="Implementations\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Stubs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrismRefitTutorial.Models\PrismRefitTutorial.Models.csproj" />
+  </ItemGroup>
+</Project>
